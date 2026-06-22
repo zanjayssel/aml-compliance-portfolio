@@ -1,5 +1,15 @@
 # Project 01: Customer Due Diligence (CDD)
 
+Prepared by: Zanja Yssel
+
+Role: Independent AML & Compliance Analyst (Portfolio Project)
+
+Date: 22 June 2026
+
+Jurisdiction: South Africa / Namibia (Cross-Border Scenario)
+
+Project Type: CDD
+
 ## Executive Summary
 
 This report applies a risk-based approach to conduct customer due diligence on a Namibian resident seeking to open an account with a South African fintech company for the purpose of conducting cross-border business transactions.
@@ -11,6 +21,14 @@ No immediate indicators of money laundering, terrorist financing or sanctions ex
 Final Risk Rating: Medium Risk
 
 Recommendation: Approve account opening subject to standard due diligence requirements and ongoing transaction monitoring.
+
+---
+
+## Methodology
+
+This assessment applies a risk-based approach aligned with internationally recognised anti-money laundering principles. The review considers customer identity, source of funds, jurisdictional exposure, transaction behaviour and potential financial crime indicators.
+
+The objective is to identify, assess and mitigate money laundering and terrorist financing risks associated with the customer relationship.
 
 ---
 
@@ -130,3 +148,13 @@ Should future transaction patterns deviate significantly from the customer's sta
 ---
 
 *This report was prepared for educational and portfolio purposes only and does not represent an actual customer assessment.*
+
+## Regulatory References
+
+This project was informed by the following frameworks:
+
+- FATF Risk-Based Approach principles
+- FATF Recommendation 10 (Customer Due Diligence)
+- FATF Recommendation 12 (Politically Exposed Persons)
+- South African Financial Intelligence Centre (FIC) guidance
+- Namibia Financial Intelligence Centre principles
