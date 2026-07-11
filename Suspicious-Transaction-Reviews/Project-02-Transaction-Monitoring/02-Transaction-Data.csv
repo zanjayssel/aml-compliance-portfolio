@@ -1,0 +1,21 @@
+Transaction_ID,Date,Type,Amount_NAD,Counterparty,Country,Reference,Initial_Observation
+TX001,2026-05-02,Incoming,18500,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX002,2026-05-03,Outgoing,22000,SA Household Wholesalers,South Africa,Invoice SHW-1042,Consistent supplier payment
+TX003,2026-05-05,Incoming,12750,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX004,2026-05-06,Incoming,30000,K. Shikongo,Namibia,Loan,Third-party personal transfer
+TX005,2026-05-06,Outgoing,29500,Africa Trade Solutions,South Africa,Consulting fee,Rapid movement of funds after receipt
+TX006,2026-05-09,Incoming,16000,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX007,2026-05-10,Outgoing,18000,Windhoek Commercial Rentals,Namibia,Monthly rent,Ordinary business expense
+TX008,2026-05-12,Outgoing,25000,SA Consumer Imports,South Africa,Invoice SCI-883,Consistent supplier payment
+TX009,2026-05-14,Incoming,50000,M. Amutenya,Namibia,Family support,Large third-party transfer
+TX010,2026-05-14,Outgoing,50000,Global Digital Assets,United Arab Emirates,Investment,Outside expected profile and jurisdiction
+TX011,2026-05-17,Incoming,14800,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX012,2026-05-18,Outgoing,10000,T. Ndeitunga,Namibia,Business services,Round-number payment to individual
+TX013,2026-05-18,Outgoing,10000,P. Hamukwaya,Namibia,Business services,Repeated round-number payment
+TX014,2026-05-18,Outgoing,10000,L. Nghipandulwa,Namibia,Business services,Repeated round-number payment
+TX015,2026-05-21,Incoming,19500,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX016,2026-05-23,Outgoing,24000,SA Household Wholesalers,South Africa,Invoice SHW-1098,Consistent supplier payment
+TX017,2026-05-25,Incoming,42000,Blue Rock Trading,Botswana,Settlement,Unexpected foreign counterparty
+TX018,2026-05-25,Outgoing,40000,North Star Holdings,Mauritius,Consultancy,Rapid cross-border movement of funds
+TX019,2026-05-28,Incoming,15000,Daily Retail Receipts,Namibia,Retail sales,Consistent with expected activity
+TX020,2026-05-30,Outgoing,8500,Windhoek Logistics,Namibia,Delivery expenses,Ordinary business expense
