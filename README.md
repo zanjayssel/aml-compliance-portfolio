@@ -24,7 +24,22 @@ This portfolio contains practical projects designed to simulate real-world compl
 
 ### Due Diligence Reports
 
-Company and individual due diligence investigations.
+## Featured Projects
+
+### [Project 01: Customer Due Diligence](Due-Diligence-Reports/Project-01-Customer-Due-Diligence)
+
+A fictional risk-based customer onboarding assessment involving:
+
+- Customer identification and verification
+- Business and beneficial ownership review
+- Source-of-funds assessment
+- Sanctions, PEP and adverse-media screening
+- Customer risk scoring
+- Conditional onboarding recommendation
+- Post-onboarding monitoring controls
+
+**Final risk rating:** Moderate Risk  
+**Recommended decision:** Conditional Approval
 
 ### Risk Assessments
 
