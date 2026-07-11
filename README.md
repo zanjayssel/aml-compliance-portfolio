@@ -20,7 +20,7 @@ I hold a Bachelor of Laws (LLB) degree and am currently expanding my expertise i
 
 This portfolio contains practical projects designed to simulate real-world compliance scenarios.
 
-## Portfolio Sections
+## Featured Projects and Portfolio Sections
 
 ### Due Diligence Reports
 
@@ -39,23 +39,23 @@ A fictional risk-based customer onboarding assessment involving:
 **Final risk rating:** Moderate Risk  
 **Recommended decision:** Conditional Approval
 
-### Risk Assessments
+### Risk Assessments - Planned
 
 Risk-based assessments across industries, jurisdictions and customers.
 
-### OSINT Investigations
+### OSINT Investigations - Planned
 
 Open-source intelligence investigations using publicly available information.
 
-### AML Case Analyses
+### AML Case Analyses - Planned 
 
-Analysis of real and hypothetical money laundering scenarios.
+Analysis of fictional and publicly documented money laundering scenarios.
 
-### FATF Research Notes
+### FATF Research Notes - Planned 
 
 Research summaries and implementation analyses of FATF recommendations.
 
-### Suspicious Transaction Reviews
+### Suspicious Transaction Reviews - Planned 
 
 Identification and analysis of potentially suspicious financial activity.
 
