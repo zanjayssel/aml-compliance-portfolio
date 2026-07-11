@@ -24,8 +24,6 @@ This portfolio contains practical projects designed to simulate real-world compl
 
 ### Due Diligence Reports
 
-## Featured Projects
-
 ### [Project 01: Customer Due Diligence](Due-Diligence-Reports/Project-01-Customer-Due-Diligence)
 
 A fictional risk-based customer onboarding assessment involving:
