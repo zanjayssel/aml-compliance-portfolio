@@ -2,7 +2,7 @@
 
 Welcome to my AML & Compliance Portfolio.
 
-This repository showcases independent projects completed to demonstrate practical skills in:
+This repository contains completed and developing independent projects designed to demonstrate practical skills in:
 
 - Anti-Money Laundering (AML)
 - Know Your Customer (KYC)
