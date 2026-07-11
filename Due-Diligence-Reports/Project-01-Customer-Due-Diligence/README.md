@@ -30,11 +30,11 @@ Expected monthly transaction activity is between N$80,000 and N$120,000.
 
 ## Project Files
 
-- Case Scenario
-- CDD Checklist
-- Risk Assessment
-- Screening Results
-- Final Due Diligence Report
+1. [Case Scenario](01-Case-Scenario.md)
+2. [Customer Due Diligence Checklist](02-CDD-Checklist.md)
+3. [Customer Risk Assessment](03-Risk-Assessment.md)
+4. [Screening Results](04-Screening-Results.md)
+5. [Final Due Diligence Report](05-Final-DD-Report.md)
 
 ## Disclaimer
 
