@@ -39,6 +39,25 @@ A fictional risk-based customer onboarding assessment involving:
 **Final risk rating:** Moderate Risk  
 **Recommended decision:** Conditional Approval
 
+### Suspicious Transaction Reviews
+
+### [Project 02: Transaction Monitoring and Suspicious Activity Analysis](Suspicious-Transaction-Reviews/Project-02-Transaction-Monitoring)
+
+A fictional ongoing-monitoring case identifying and analysing potentially suspicious financial activity involving:
+
+- Comparison of actual transactions with the expected customer profile
+- Review of 20 fictional account transactions
+- Identification of third-party payments and possible pass-through activity
+- Analysis of rapid same-day fund movements
+- Review of unexpected jurisdictions and counterparties
+- AML red-flag assessment
+- Internal escalation narrative
+- Customer risk-rating reassessment
+
+**Original risk rating:** Moderate Risk  
+**Revised interim risk rating:** High Risk Pending Investigation  
+**Decision:** Escalate for Enhanced Investigation
+
 ### Risk Assessments - Planned
 
 Risk-based assessments across industries, jurisdictions and customers.
@@ -55,8 +74,5 @@ Analysis of fictional and publicly documented money laundering scenarios.
 
 Research summaries and implementation analyses of FATF recommendations.
 
-### Suspicious Transaction Reviews - Planned 
-
-Identification and analysis of potentially suspicious financial activity.
 
 *All scenarios have been anonymised and are created for educational and portfolio purposes only.*
