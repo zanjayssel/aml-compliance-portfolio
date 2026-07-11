@@ -39,14 +39,24 @@ The project will demonstrate how to:
 5. Determine whether enhanced review is necessary
 6. Prepare an internal escalation recommendation
 
-## Planned Project Files
+## Project Files
 
-1. Customer Profile
-2. Transaction Dataset
-3. Transaction Analysis
-4. Red-Flag Assessment
-5. Internal Escalation Report
-6. Final Case Conclusion
+1. [Customer Profile](01-Customer-Profile.md)
+2. [Transaction Dataset](02-Transaction-Data.csv)
+3. [Transaction Analysis](03-Transaction-Analysis.md)
+4. [Red-Flag Assessment](04-Red-Flag-Assessment.md)
+5. [Internal Escalation Report](05-Internal-Escalation-Report.md)
+6. [Final Case Conclusion](06-Final-Case-Conclusion.md)
+
+## Final Outcome
+
+**Original customer risk rating:** Moderate Risk
+
+**Revised interim risk rating:** High Risk Pending Investigation
+
+**Decision:** Escalate for Enhanced Investigation
+
+**Monitoring status:** Enhanced Monitoring
 
 ## Disclaimer
 
