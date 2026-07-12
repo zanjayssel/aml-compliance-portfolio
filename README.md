@@ -24,7 +24,7 @@ This portfolio contains practical projects designed to simulate real-world compl
 
 ### Due Diligence Reports
 
-### [Project 01: Customer Due Diligence](Due-Diligence-Reports/Project-01-Customer-Due-Diligence)
+### [Project 01: Customer Due Diligence](01-Customer-Due-Diligence/Project-01-Customer-Due-Diligence)
 
 A fictional risk-based customer onboarding assessment involving:
 
@@ -41,7 +41,7 @@ A fictional risk-based customer onboarding assessment involving:
 
 ### Suspicious Transaction Reviews
 
-### [Project 02: Transaction Monitoring and Suspicious Activity Analysis](Suspicious-Transaction-Reviews/Project-02-Transaction-Monitoring)
+### [Project 02: Transaction Monitoring and Suspicious Activity Analysis](02-Transaction-Monitoring-and-Case-Review/Project-02-Transaction-Monitoring)
 
 A fictional ongoing-monitoring case identifying and analysing potentially suspicious financial activity involving:
 
