@@ -58,6 +58,27 @@ A fictional ongoing-monitoring case identifying and analysing potentially suspic
 **Revised interim risk rating:** High Risk Pending Investigation  
 **Decision:** Escalate for Enhanced Investigation
 
+### AML Policies and Program Reviews
+
+### [Project 03: Fintech AML Policy Review and Gap Analysis](03-AML-Policies-and-Program-Reviews/Project-03-Fintech-AML-Policy-Gap-Analysis)
+
+A fictional review of a U.S.-based fintech and money-services business AML policy and control framework.
+
+The project includes:
+
+- Review of an intentionally incomplete AML policy
+- Assessment against selected U.S. BSA/AML, FinCEN MSB and OFAC principles
+- Identification and classification of 24 policy and control gaps
+- Risk and remediation-priority assessment
+- Detailed remediation recommendations
+- Revised policy wording for high-priority control areas
+- Executive compliance memorandum for management
+
+**Overall programme risk:** High  
+**Policy readiness:** Material Remediation Required  
+**Critical findings:** 7  
+**Recommended response:** Immediate prioritised remediation before sponsor-bank presentation
+
 ### Risk Assessments - Planned
 
 Risk-based assessments across industries, jurisdictions and customers.
