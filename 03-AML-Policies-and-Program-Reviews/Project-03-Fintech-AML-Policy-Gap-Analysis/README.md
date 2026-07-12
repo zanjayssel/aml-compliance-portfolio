@@ -34,13 +34,25 @@ The assessment covers:
 
 ## Project Files
 
-1. Client Scenario
-2. Original AML Policy
-3. Gap Analysis Matrix
-4. Risk and Priority Assessment
-5. Remediation Recommendations
-6. Revised Policy Sections
-7. Executive Compliance Memo
+1. [Client Scenario](01-Client-Scenario.md)
+2. [Original AML Policy](02-Original-AML-Policy.md)
+3. [AML Policy Gap Analysis Matrix](03-Gap-Analysis-Matrix.md)
+4. [Risk and Priority Assessment](04-Risk-and-Priority-Assessment.md)
+5. [Remediation Recommendations](05-Remediation-Recommendations.md)
+6. [Revised AML Policy Sections](06-Revised-Policy-Sections.md)
+7. [Executive Compliance Memorandum](07-Executive-Compliance-Memo.md)
+
+## Final Outcome
+
+**Overall programme risk:** High
+
+**Policy readiness:** Material Remediation Required
+
+**Critical findings:** 7
+
+**Total identified gaps:** 24
+
+**Recommended response:** Immediate prioritised remediation before sponsor-bank presentation
 
 ## Disclaimer
 
