@@ -528,7 +528,7 @@ No conclusion of criminal conduct is required before escalation.
 
 Where NorthBridge Pay is subject to applicable suspicious-activity reporting requirements, it must maintain a documented reporting procedure.
 
-Certain MSBs, including money transmitters, are subject to FinCEN SAR requirements. :contentReference[oaicite:1]{index=1}
+Certain MSBs, including money transmitters, are subject to FinCEN SAR requirements.  
 
 The procedure must address:
 
