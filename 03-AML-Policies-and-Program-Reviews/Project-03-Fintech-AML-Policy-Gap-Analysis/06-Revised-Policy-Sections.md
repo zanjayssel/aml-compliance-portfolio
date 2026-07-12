@@ -605,7 +605,7 @@ Senior management must receive training appropriate to its oversight responsibil
 
 NorthBridge Pay must arrange periodic independent testing of the AML programme.
 
-FinCEN explains that independent review should assess whether an MSB’s programme is adequate, complies with applicable BSA requirements and operates consistently with its own policies and procedures. :contentReference[oaicite:2]{index=2}
+FinCEN explains that independent review should assess whether an MSB’s programme is adequate, complies with applicable BSA requirements and operates consistently with its own policies and procedures. 
 
 The review must be performed by a suitably knowledgeable person who is independent of the activities being tested.
 
