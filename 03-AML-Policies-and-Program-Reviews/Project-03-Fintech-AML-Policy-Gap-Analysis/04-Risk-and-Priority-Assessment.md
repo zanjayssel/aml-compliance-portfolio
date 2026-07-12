@@ -173,7 +173,7 @@ Analysts may apply different standards, omit relevant evidence or fail to escala
 **Gap:** The policy does not define the process for evaluating and documenting whether external suspicious-activity reporting is required.
 
 **Why it matters:**  
-Certain MSBs, including money transmitters, are subject to suspicious-activity reporting requirements. A documented governance process is therefore necessary where the business model falls within an applicable reporting category. :contentReference[oaicite:1]{index=1}
+Certain MSBs, including money transmitters, are subject to suspicious-activity reporting requirements. A documented governance process is therefore necessary where the business model falls within an applicable reporting category. 
 
 **Potential impact:**
 
@@ -201,7 +201,7 @@ Certain MSBs, including money transmitters, are subject to suspicious-activity r
 **Gap:** Independent testing is described as optional and has no defined schedule or scope.
 
 **Why it matters:**  
-Independent review is used to evaluate whether an MSB’s AML programme is adequate, complies with applicable BSA obligations and is operating consistently with its own policies and procedures. :contentReference[oaicite:2]{index=2}
+Independent review is used to evaluate whether an MSB’s AML programme is adequate, complies with applicable BSA obligations and is operating consistently with its own policies and procedures. 
 
 **Potential impact:**
 
